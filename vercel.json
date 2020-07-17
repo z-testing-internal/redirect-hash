@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "status": 307,
+      "headers": { "Location": "https://www.typescriptlang.org/play/?target=99#code/MYewdgzgLgBAlgEwCogHIEMC2BTAXDAbxgG0BrbAT32gCc4wBzAXWqjsZgF8YBeQzgNwAoIYhQYcxAOQBGAEwBmKU14wpAQQA2cYNinCxaLNmkAWAKwA2ZaqkAhEACN9IgPSuYAN3SaArtngIGF8wBGwAM3psBBhHX1gkAGUYGmwABxAaKCDaegYhNPYoAApDCRMpAHYADgBOZQBKYSFQSFhEABk4aFZ2BmIVPgGDBC7oADo03wgAC2LZRSkm0VHuqEnpuakLa2Whdy8ff0Dg0IiomLiE5NSMrJy2PIKi0tXoYnMmPfCQ4Cg4cAwQr0Eq0Xp5BqEIQwGAHKAzGggADuQXQsBoIX+OGhMFaEBAmmw400IAYxVo4ygIAAqmk0tgaABhdAQbDFBrLThAA" }
+    }
+  ]
+}
